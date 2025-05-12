@@ -1,6 +1,6 @@
 # Week 8 – HTML, CSS, JavaScript
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week marked the transition from low-level programming in C to web development. We explored how websites are structured and styled using HTML and CSS, and how they become interactive with JavaScript.
